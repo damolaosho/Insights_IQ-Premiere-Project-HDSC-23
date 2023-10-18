@@ -14,6 +14,7 @@ The project aims to analyze global energy data and offer data-driven insights fo
 
 <h2 align = 'center'>   Objectives
 </h2>
+### klfldkff
 - Analyze trends in renewable energy adoption worldwide.
 - Identify countries at the forefront of renewable energy utilization.
 - Forecast the timeline to meet global renewable energy goals.
