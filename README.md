@@ -14,8 +14,15 @@ The project aims to analyze global energy data and offer data-driven insights fo
 
 <h2 align = 'center'>   Objectives
 </h2>
-1. Analyze trends in renewable energy adoption worldwide.
-2. Identify countries at the forefront of renewable energy utilization.
-3. Forecast the timeline to meet global renewable energy goals.
-4. Determine barriers hindering rapid renewable energy adoption.
-5. Provide actionable recommendations for policymakers and stakeholders to transform infrastructure through sustainable energy solutions.
+<ul>
+  <li>Analyze trends in renewable energy adoption worldwide.
+    </li>
+  <li>Identify countries at the forefront of renewable energy utilization.
+    </li>
+  <li>Forecast the timeline to meet global renewable energy goals.
+    </li>
+  <li>Determine barriers hindering rapid renewable energy adoption.
+    </li>
+  <li>Provide actionable recommendations for policymakers and stakeholders to transform infrastructure through sustainable energy solutions.
+    </li>
+</ul>
