@@ -1,8 +1,9 @@
 <h1 align = 'center'>   Global Renewable Energy Transition Analysis and Forecast
-<img src="https://imgs.search.brave.com/VJAHTa4Lu-_-ZSLVAUG9XVlUzKBjeCu8dhmydrUgSpU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3R1ZHkvNDUwMDAv/NDYyMjctcmV0aW5h/LnBuZw" alt="Descr" width = 80>
+<img src="https://imgs.search.brave.com/VJAHTa4Lu-_-ZSLVAUG9XVlUzKBjeCu8dhmydrUgSpU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3R1ZHkvNDUwMDAv/NDYyMjctcmV0aW5h/LnBuZw" alt="Descr" width = 800>
 </h1>
 <h2 align = 'center'>   Introduction
 </h2>
+<img src="https://imgs.search.brave.com/gCD7UoP9IJyuxsjh_JLyOVne9cb51r7UHFN6my3b-Jw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5yZmYub3JnL2lt/YWdlcy9zaHV0dGVy/c3RvY2tfNTM1Njgz/NDk5LjJlMTZkMGJh/LmZpbGwtNjc1eDQ1/MC5wbmc" alt="Descr" width = 800>
 Energy is the lifeblood of modern infrastructure, powering industries, transportation, and communities. The quality and accessibility of energy resources are intrinsically linked to infrastructure development. As the world grapples with an infrastructure deficit, compounded by environmental concerns, a transformation is essential. This project explores the interplay between energy and infrastructure, aligning with the theme of "Infrastructure Deficit: AI's Transformative Role in Planning."
 
 <h2 align = 'center'>   Problem Statement
