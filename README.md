@@ -1,5 +1,5 @@
 <h1 align = 'center'>   Global Renewable Energy Transition Analysis and Forecast
-<img src="https://imgs.search.brave.com/VJAHTa4Lu-_-ZSLVAUG9XVlUzKBjeCu8dhmydrUgSpU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3R1ZHkvNDUwMDAv/NDYyMjctcmV0aW5h/LnBuZw" alt="Descr">
+<img src="https://imgs.search.brave.com/VJAHTa4Lu-_-ZSLVAUG9XVlUzKBjeCu8dhmydrUgSpU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3RhdGNkbi5jb20v/U3R1ZHkvNDUwMDAv/NDYyMjctcmV0aW5h/LnBuZw" alt="Descr" width = 80>
 </h1>
 <h2 align = 'center'>   Introduction
 </h2>
